@@ -1,0 +1,13 @@
+{
+    "name": "paul/consuta",
+    "authors": [
+        {
+            "name": "paulantezana",
+            "email": "yoel.antezana@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "*"
+    }
+}
